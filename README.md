@@ -31,11 +31,7 @@ Before using a production vector database, I wanted to understand the basic mech
 
 This project is intentionally simple and does not use any external AI or vector database library.
 
-## How It Works
-
-A document such as:
-
-# Clone and run
-https://github.com/noim015/vector-search-from-scratch.git
+## How to run
+git clone https://github.com/noim015/vector-search-from-scratch.git
 cd vector-search-from-scratch
 python main.py
